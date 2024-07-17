@@ -21,7 +21,7 @@ RFM Analitiği aşağıdaki alanlarda kullanılır:
 RFM Analitiği, müşterilerin davranışlarını anlamak ve pazarlama kampanyalarını optimize etmek için güçlü bir araçtır.
 
 
-![62b8404e1ec8d](https://github.com/mbgdev/RFM_Analytics_online_retail_II/assets/57618903/9922ec4a-2251-4294-b17c-b1f661b7efc6)
+![rfm seg](https://github.com/user-attachments/assets/4284de43-0a08-4894-8056-7ccffbce146e)
 
 
 
