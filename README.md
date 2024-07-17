@@ -27,7 +27,7 @@ RFM Analitiği, müşterilerin davranışlarını anlamak ve pazarlama kampanyal
 
 # Online Retail II Veri Seti
 
-"Online Retail II" veri seti, e-ticaret işletmeleri tarafından müşteri davranışlarını, ürün satışlarını ve stok yönetimini analiz etmek amacıyla kullanılan bir veri kümesidir. Veri seti genellikle iki ayrı veri kümesinden oluşur: "Online Retail II - 2010-2011" ve "Online Retail II - 2011-2012".
+"Online Retail II" veri seti, e-ticaret işletmeleri tarafından müşteri davranışlarını, ürün satışlarını ve stok yönetimini analiz etmek amacıyla kullanılan bir veri kümesidir. Veri seti genellikle iki ayrı veri kümesinden oluşur: "Online Retail II - 2009-2010" ve "Online Retail II - 2010-2011".
 
 ## Temel Sütunlar
 
